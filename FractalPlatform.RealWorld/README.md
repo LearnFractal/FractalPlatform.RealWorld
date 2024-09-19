@@ -1,3 +1,0 @@
-# RealWorld app
-
-Comming soon ...

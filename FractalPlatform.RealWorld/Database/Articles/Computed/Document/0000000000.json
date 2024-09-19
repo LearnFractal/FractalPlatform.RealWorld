@@ -1,8 +1,0 @@
-{
-  "CountLikes": {
-    "Formula": "@CountLikes"
-  },
-  "CountFollowers": {
-    "Formula": "@CountFollowers"
-  }
-}
