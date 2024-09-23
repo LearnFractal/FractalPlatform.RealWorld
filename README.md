@@ -15,7 +15,7 @@ For more information on how to this works with other frontends/backends, head ov
 We created special [RealWorldComparator](https://fraplat.com/jupiter/RealWorldComparator) web app 
 to compare other FE/BE/Fullstack solutions with Fractal Platform solution.
 
-At the moment this is smallest fullstack solution in 34kb of sources: 
+At the moment this is smallest fullstack implementation in 34kb of sources: 
 | File Extension | Length |
 |----------------|--------|
 | .html          | 20 kb  |
