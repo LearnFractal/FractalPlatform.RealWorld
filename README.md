@@ -34,7 +34,7 @@ At the moment this is smallest fullstack solution in 34kb of sources:
 In the Fractal Platform, we do not mix different layers with each other, and we have achieved next andvantages:
 - **Clean architecture**. HTML is HTML. The database is the database. Validation is validation. C# code is C# code. We don't mix different aspects of functionality in one file (e.g., dynamic HTML in a JS file or validation logic in HTML tags).
 - **Flexible architecture**. In many cases, we can add or remove features from our application without significant changes to the code.
-- **Less code**. Web applications contain approximately [~5-50 less of code](https://fraplat.com/jupiter/RealWorldComparator) less code than typical web solutions.
+- **Less code**. Web applications contain approximately [~5-50 less of code](https://fraplat.com/jupiter/RealWorldComparator) than typical web solutions.
 - **Easy to read code**. The code consists only of HTML, JSON, and C# files with a simple structure.
 - **Easy to deploy**. The RealWorld application can be deployed to Fractal Cloud within a few seconds by simply running the FractalPlatform.Deployment console application.
 - **Good performance of web apps**. The web application works quickly because the engine and database have numerous optimizations for rendering the applications.
