@@ -28,7 +28,7 @@ html templates (20 kb) + C# backend code (9 kb) + DB schema with data (5 kb) = 3
 - [Database](https://github.com/LearnFractal/FractalPlatform.RealWorld/tree/main/Database) The database is represented as a set of JSON files. Some of the JSON files describe dimensions such as [validation](https://github.com/LearnFractal/FractalPlatform.RealWorld/blob/main/Database/Post/Validation/Document/0000000000.json), [security](https://github.com/LearnFractal/FractalPlatform.RealWorld/blob/main/Database/Dashboard/Security/Document/0000000000.json), [UI](https://github.com/LearnFractal/FractalPlatform.RealWorld/blob/main/Database/Dashboard/UI/Document/0000000000.json), etc.
 
 In the Fractal Platform, we do not mix different layers with each other, and we have achieved next andvantages:
-- Clean architecture. HTML is HTML. The database is the database. Validation is validation. C# code is C# code. We don't mix different aspects of functionality in one file (e.g., dynamic HTML in a JS file or validation logic in HTML tags).
+- **Clean architecture**. HTML is HTML. The database is the database. Validation is validation. C# code is C# code. We don't mix different aspects of functionality in one file (e.g., dynamic HTML in a JS file or validation logic in HTML tags).
 - **Flexible architecture**. In many cases, we can add or remove features from our application without significant changes to the code.
 - **Less code**. Web applications contain approximately [~5-50 less of code](https://fraplat.com/jupiter/RealWorldComparator) less code than typical web solutions.
 - **Easy to read code**. The code consists only of HTML, JSON, and C# files with a simple structure.
