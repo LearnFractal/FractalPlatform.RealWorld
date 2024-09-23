@@ -15,7 +15,7 @@ For more information on how to this works with other frontends/backends, head ov
 We created special [RealWorldComparator](https://fraplat.com/jupiter/RealWorldComparator) web app 
 to compare other [FE/BE/Fullstack implementations](https://codebase.show/projects/realworld) with Fractal Platform.
 
-At the moment Fractal Platform has smallest RealWorld fullstack implementation in 34kb of sources: 
+At the moment Fractal Platform has one of the smallest RealWorld fullstack implementation in 34kb of sources only: 
 | File Extension | Length |
 |----------------|--------|
 | .html          | 20 kb  |
