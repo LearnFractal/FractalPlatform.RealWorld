@@ -41,7 +41,7 @@ In the Fractal Platform, we do not mix different layers with each other, and we 
 
 And we have some disadvantages:
 - We don't use REST or web page routing to provide communication between Frontent and Backend parts of our Fullstack web application,
-  because by our opinion it has no significant impact on user experience.
+  because it has no significant impact on user experience by our opinion.
   
 # Getting started
 
