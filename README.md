@@ -13,8 +13,10 @@ For more information on how to this works with other frontends/backends, head ov
 # Compare to other Frameworks/Solutions
 
 We created special [RealWorldComparator](https://fraplat.com/jupiter/RealWorldComparator) web app 
-to compare other FE/BE/Fullstack solutions with Fractal Platform solution. 
-At the moment this is smallest fullstack solution: html templates (20 kb) + C# backend code (9 kb) + DB schema with data (5 kb) = 34 kb of sources
+to compare other FE/BE/Fullstack solutions with Fractal Platform solution.
+
+At the moment this is smallest fullstack solution: 
+html templates (20 kb) + C# backend code (9 kb) + DB schema with data (5 kb) = 34 kb of sources
 
 # How it works
 
