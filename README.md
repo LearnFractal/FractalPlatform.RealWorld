@@ -13,7 +13,7 @@ For more information on how to this works with other frontends/backends, head ov
 # Compare to other Frameworks/Solutions
 
 We created special [RealWorldComparator](https://fraplat.com/jupiter/RealWorldComparator) web app 
-to compare other [FE/BE/Fullstack implementations](https://codebase.show/projects/realworld) with Fractal Platform solution.
+to compare other [FE/BE/Fullstack implementations](https://codebase.show/projects/realworld) with Fractal Platform.
 
 At the moment this is smallest fullstack implementation in 34kb of sources: 
 | File Extension | Length |
